@@ -41,7 +41,7 @@ pred_lid = '[eng]'
 pred_asr = 'i want to go to cranberry lemon university'
 ```
 
-If you have any dependencies, you should outline them in `requirements.txt`. An example can be found in [mms_example/requirements.txt](mms_example/requirements.txt ).
+If you have any dependencies, you should outline them in `requirements.txt`. An example can be found in [mms_example/dynalab-mlsuperb-base/requirements.txt](mms_example/dynalab-mlsuperb-base/requirements.txt ).
 Make sure you do NOT remove the existing libraries defined in `requirements.txt`.
 
 ## Submission
