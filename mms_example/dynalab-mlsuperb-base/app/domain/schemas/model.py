@@ -20,4 +20,3 @@ class ModelSingleOutput(BaseModel):
 class ModelBatchInput(BaseModel):
     """Input schema for batch inference"""
     dataset_samples: List[ModelSingleInput]
-    
