@@ -47,21 +47,3 @@ class ModelController:
             text=pred_asr,
         )
     
-    def batch_inference(self, input_data: ModelBatchInput) -> List[ModelSingleOutput]:
-        """Run inference on multiple audio samples.
-        
-        Args:
-            input_data: ModelBatchInput containing list of audio samples
-            
-        Returns:
-            List of ModelSingleOutput objects
-        """
-        predictions = []
-        for sample in input_data.dataset_samples:
-            single_input = ModelSingleInput(
-                audio=sample['audio'],
-                sample_rate=sample['sample_rate'],
-                language=sample['language']
-            )
-            predictions.append(self.single_inference(single_input))
-        return predictions
