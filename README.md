@@ -51,7 +51,7 @@ Once you have filled out the submission template with your code and checkpoints,
 zip -r my_submission.zip submission_template
 ```
 
-Head to the [Dynabench website](https://dynabench.org/). If you haven't already, create an account and login.
+Head to the [Dynabench website](https://dynabench.org/). If you haven't already, create an account and login. You will need a Chromium-based browser.
 
 You can submit your model at https://dynabench.org/tasks/ml-superb/uploadModel. Press the upload model button to begin.
 
@@ -62,3 +62,5 @@ Give your submission a name (this will be displayed publicly) and a description 
 ![image](https://github.com/user-attachments/assets/9640f902-e4c9-4838-a5dd-03ea6d4edbae)
 
 Choose the zipped file from the file explorer. Once you press the submit button, the upload will begin and you will receive a confirmation email.
+
+We anticipate inference to take anywhere from 6 to 24 hours, depending on your model size. For our MMS baseline, it took approximately 12 hours. If you have any questions or concerns regarding your submission status, please send a message in our slack channel.
