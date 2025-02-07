@@ -63,4 +63,18 @@ Give your submission a name (this will be displayed publicly) and a description 
 
 Choose the zipped file from the file explorer. Once you press the submit button, the upload will begin and you will receive a confirmation email.
 
-We anticipate inference to take anywhere from 6 to 24 hours, depending on your model size. For our MMS 1B baseline, it took approximately 21 hours. For a XLSR 53 300M model, it took 15 hours. If you have any questions or concerns regarding your submission status, please send a message in our slack channel.
+We anticipate inference to take anywhere from 6 to 24 hours, depending on your model size. For our MMS 1B baseline, it took approximately 21 hours. For a XLSR 53 300M model, it took 15 hours. 
+
+Once inference finishes, you will get an email notification. The email include a link to publish the results. **MAKE SURE YOU OPEN THE LINK AND CLICK PUBLISH TO HAVE THE RESULTS DISPLAYED ON THE CHALLENGE LEADERBOARD.**
+
+![image](https://github.com/user-attachments/assets/8e1f9061-0fe9-426c-a5b7-4974603ddd19)
+
+
+If you have any questions or concerns regarding your submission status, please send a message in our slack channel.
+
+## Paper Submission
+
+We highly encourage the submission system description papers to Interspeech 2025. To submit to our challenge, please select the `14 Special Sessions and Challenges -> 14.10 MultiLingual Speech processing Universal PERformance Benchmark` as the primary topic area in the [official Interspeech submission portal](https://cmt3.research.microsoft.com/Interspeech2025/Submission/Index).
+
+![image](https://github.com/user-attachments/assets/e5e2b440-a563-4237-ae82-89e25ab31125)
+
