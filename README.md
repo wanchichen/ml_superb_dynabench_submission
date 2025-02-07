@@ -63,4 +63,4 @@ Give your submission a name (this will be displayed publicly) and a description 
 
 Choose the zipped file from the file explorer. Once you press the submit button, the upload will begin and you will receive a confirmation email.
 
-We anticipate inference to take anywhere from 6 to 24 hours, depending on your model size. For our MMS baseline, it took approximately 12 hours. If you have any questions or concerns regarding your submission status, please send a message in our slack channel.
+We anticipate inference to take anywhere from 6 to 24 hours, depending on your model size. For our MMS 1B baseline, it took approximately 21 hours. For a XLSR 53 300M model, it took 15 hours. If you have any questions or concerns regarding your submission status, please send a message in our slack channel.
